@@ -1,2 +1,2 @@
 # projet_examen
-examen du cours de 
+Examen du cours de Web Mapping et de Web SIG
